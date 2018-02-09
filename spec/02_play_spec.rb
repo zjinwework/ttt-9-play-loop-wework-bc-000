@@ -1,4 +1,4 @@
-require_relative '../lib/play'
+require_relative '../lib/play.rb'
 
 describe '#play' do
   it 'calls turn nine times' do
